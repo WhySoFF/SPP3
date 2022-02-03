@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0e9rlhcPV27P1VcECb47D5dl2p3k3+rxX2pOxp4pzAsoxaoSe2NAAERBTFwbiLrIw0j7Rgu+BKzBpcDrs2JqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrsti\\VisualProjects\\SPP3\\WpfApp\\WpfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrsti\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
